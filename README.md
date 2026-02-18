@@ -1,0 +1,7 @@
+[Hero.tsx](https://github.com/user-attachments/files/25402274/Hero.tsx)
+[PhilosophySection.tsx](https://github.com/user-attachments/files/25402275/PhilosophySection.tsx)[IntroductionSection.tsx](https://github.com/user-attachments/files/25402281/IntroductionSection.tsx)
+[Footer.tsx](https://github.com/user-attachments/files/25402280/Footer.tsx)
+[ManifestoSection.tsx](https://github.com/user-attachments/files/25402279/ManifestoSection.tsx)
+[RestorationSection.tsx](https://github.com/user-attachments/files/25402278/RestorationSection.tsx)
+[ResonanceSection.tsx](https://github.com/user-attachments/files/25402277/ResonanceSection.tsx)
+[TaxonomySection.tsx](https://github.com/user-attachments/files/25402276/TaxonomySection.tsx)
